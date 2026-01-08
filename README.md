@@ -1,6 +1,6 @@
-i wont add stuff to here. this is already with an source code and an injector.exe 
-just learn.
+i wont add stuff to here. 
 
 open an issue here at git if you need something.
 
 uses Xeno btw.
+Credits to @tyronetheqt
